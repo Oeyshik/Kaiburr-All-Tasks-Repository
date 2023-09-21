@@ -14,7 +14,7 @@ Central repository containing links to all 6 tasks assigned by KAIBURR.
 [Link to Task 4 Repository](https://github.com/Oeyshik/Kaiburr-Task4)
 
 ### Task 5: CI-CD Pipeline
-[Link to Task 5 Repository](https://github.com/yourusername/task5)
+[Link to Task 5 Repository](https://github.com/Oeyshik/Kaiburr-Task5)
 
 ### Task 6: Data Science example
 [Link to Task 6 Repository](https://github.com/Oeyshik/Kaiburr-Task6)
