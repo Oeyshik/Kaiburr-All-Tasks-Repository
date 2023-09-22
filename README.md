@@ -8,7 +8,7 @@ Central repository containing links to all 6 tasks assigned by KAIBURR.
 [Link to Task 2 Repository](https://github.com/yourusername/task2)
 
 ### Task 3: Kubernetes
-[Link to Task 3 Repository](https://github.com/yourusername/task3)
+[Link to Task 3 Repository](https://github.com/Oeyshik/Kaiburr-Task3)
 
 ### Task 4: WEB UI Forms
 [Link to Task 4 Repository](https://github.com/Oeyshik/Kaiburr-Task4)
